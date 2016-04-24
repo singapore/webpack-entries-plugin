@@ -2,7 +2,7 @@
 
 Automatically detect webpack entries
 
-# Why
+## Why
 
 - Webpack watch option does not allow for detecting new entries
 - I needed a solution that automatically scans folders and detect entry names
