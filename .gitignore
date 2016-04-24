@@ -1,0 +1,18 @@
+# Project files
+node_modules
+
+# Rubbish
+*.log
+._*
+.buildpath
+.DS_Store
+.env
+.idea
+.project
+.settings
+thumbs.db
+.*.swp
+*.sublime-project
+*.sublime-workspace
+.c9
+coverage

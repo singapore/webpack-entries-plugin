@@ -1,0 +1,32 @@
+{
+  "name": "webpack-entries-plugin",
+  "version": "0.0.3",
+  "description": "Automatically detect Webpack entries",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singapore/webpack-entries-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "entries",
+    "entry"
+  ],
+  "author": "Ayoub Kaanich <kayoub5@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/singapore/webpack-entries-plugin/issues"
+  },
+  "homepage": "https://github.com/singapore/webpack-entries-plugin#readme",
+  "dependencies": {
+    "array-find-index": "^1.0.1",
+    "glob": "^7.0.3",
+    "object-assign": "^4.0.1",
+    "path-to-regexp": "^1.2.1",
+    "q": "^1.4.1"
+  },
+  "peerDependencies": {
+    "webpack": "^1.9.11"
+  }
+}

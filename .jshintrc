@@ -1,0 +1,19 @@
+{
+  "forin": true,
+  "maxparams": 5,
+  "maxdepth": 3,
+  "maxstatements": 32,
+  "maxcomplexity": 10,
+  "latedef": "nofunc",
+  "nonbsp": true,
+  "noarg": true,
+  "curly": true,
+  "freeze": true,
+  "undef": true,
+  "unused": true,
+  "futurehostile": true,
+  "nocomma": true,
+  "nonew": true,
+  "singleGroups": true,
+  "node":true
+}
